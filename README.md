@@ -66,3 +66,7 @@ The model is instructed not to guarantee eligibility for housing programs. Final
 ## Workflow
 
 The workflow uses conditional branching to separate valid requests from requests that require additional information.
+
+### Workflow Architecture
+
+![AI Housing Assistance Workflow](housing-assistance-workflow.png)
